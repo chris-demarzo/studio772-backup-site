@@ -1,0 +1,8 @@
+{
+  "name": "studio772-backup-site",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node --test tests/site.test.mjs"
+  }
+}

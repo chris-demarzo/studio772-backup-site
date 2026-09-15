@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://backup.studio772.com/sitemap.xml

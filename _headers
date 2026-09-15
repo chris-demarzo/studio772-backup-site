@@ -1,0 +1,9 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=(), usb=()
+  Content-Security-Policy: default-src 'self'; img-src 'self'; style-src 'self'; script-src 'none'; connect-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'none'
+  X-Frame-Options: DENY
+
+/assets/*
+  Cache-Control: public, max-age=86400
